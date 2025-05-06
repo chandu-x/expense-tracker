@@ -12,3 +12,5 @@ A lightweight terminal-based Python project to help track daily expenses with su
 ## Run the App
 on terminal search-
 python expense_tracker.py
+
+hello chandu
