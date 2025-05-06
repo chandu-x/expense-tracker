@@ -13,4 +13,3 @@ A lightweight terminal-based Python project to help track daily expenses with su
 on terminal search-
 python expense_tracker.py
 
-hello chandu
